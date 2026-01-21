@@ -88,4 +88,4 @@ Additional features:
 ---
 
 ## 🚀 Author
-*[GitHub – entorpecimiento](https://github.com/entorpecimiento)
+[GitHub – entorpecimiento](https://github.com/entorpecimiento)
