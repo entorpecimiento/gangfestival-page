@@ -88,4 +88,4 @@ Additional features:
 ---
 
 ## 🚀 Author
-**Rubén Díaz** [GitHub – 0600donrouch](https://github.com/0600donrouch)
+*[GitHub – entorpecimiento](https://github.com/entorpecimiento)
