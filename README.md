@@ -1,66 +1,66 @@
-# 🎉 Gangfestival – Primer Parcial
+# 🎉 Gangfestival – First Midterm Project
 
-Sitio web desarrollado para el **primer parcial** de la materia  
-**Taller de Lenguajes de Marcado y Tecnologías Web – 2do Cuatrimestre 2025**.
+Website developed for the **first midterm exam** of the course:  
+**Markup Languages and Web Technologies Workshop – 2nd Semester 2025**.
 
-El proyecto consiste en una página web completa para un **festival de música ficticio**, utilizando estructura semántica, multimedia y estilos CSS.
+The project consists of a comprehensive website for a **fictional music festival**, utilizing semantic structure, multimedia elements, and CSS styling.
 
 ---
 
-## 🌐 Demo online
+## 🌐 Online Demo
 👉 **https://0600donrouch.github.io/gangfestival-page/**
 
 ---
 
-## 🧠 Descripción del proyecto
+## 🧠 Project Description
 
-El sitio cumple todas las consignas del parcial y contiene:
+The site meets all the exam requirements and includes:
 
-### 📌 Página principal — `index.html`
-- Presentación del festival (nombre, historia y géneros musicales).
-- Estructura semántica completa: `header`, `nav`, `main`, `section`, `article`, `aside`, `footer`.
-- Menú de navegación.
-- Imágenes con `alt`.
-- Imágenes con enlaces a videos de YouTube.
-- Video local con controles.
-- Video embebido desde YouTube.
-- Audio con controles.
-- Mapa de Google Maps.
-- Diseño con CSS.
+### 📌 Home Page — `index.html`
+- Festival presentation (name, history, and musical genres).
+- Full semantic structure: `header`, `nav`, `main`, `section`, `article`, `aside`, `footer`.
+- Navigation menu.
+- Images with descriptive `alt` text.
+- Image links to YouTube videos.
+- Local video with playback controls.
+- Embedded YouTube video.
+- Audio player with controls.
+- Google Maps integration.
+- CSS-based layout and design.
 
-### 📌 Programación — `programacion.html`
-- Información de artistas (género, país, horario, escenario).
-- Tabla de días y horarios.
-- Listas ordenadas y desordenadas.
-- Imágenes ilustrativas.
-- Uso de `div` y `span`.
-- Navegación coherente entre páginas.
-- Estilos propios en CSS.
+### 📌 Schedule — `programacion.html`
+- Artist information (genre, country, set time, stage).
+- Timetable grid (table).
+- Ordered and unordered lists.
+- Illustrative imagery.
+- Strategic use of `div` and `span`.
+- Coherent cross-page navigation.
+- Custom CSS styling.
 
-### 📌 Contacto — `contacto.html`
-Incluye un formulario con:
-- 4 campos de texto
-- 3 radios
+### 📌 Contact — `contacto.html`
+Includes a comprehensive form featuring:
+- 4 text fields
+- 3 radio buttons
 - 3 checkboxes
 - 1 datalist
 - 1 textarea
-- 1 botón de envío
+- 1 submit button
 
-Además:
-- Información de contacto.
-- Redes sociales.
-- Navegación unificada.
-- Diseño accesible con CSS.
+Additional features:
+- Contact information.
+- Social media links.
+- Unified navigation.
+- Accessible CSS design.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## 🛠️ Technologies Used
 - **HTML5**
 - **CSS3**
 
 ---
 
-## 📂 Estructura del proyecto
+## 📂 Project Structure
 - index.html
 - programacion/
 - contacto/
@@ -75,19 +75,17 @@ Además:
 
 ---
 
-## 📝 Resultado / Nota
-**Calificación:**  
-> **9/10**
+## 📝 Result / Grade
+**Final Grade:** > **9/10**
 
 ---
 
-## 🧾 Devolución del profesor/a
-> *"Diseño atractivo y dinámico; el mensaje inicial interrumpe la experiencia, podría mostrarse de forma más sutil.  
-> Excelente estética y estructura; se recomienda evitar el modal bloqueante al inicio.  
-> Muy buen trabajo."*
+## 🧾 Professor's Feedback
+> *"Attractive and dynamic design; the initial message interrupts the experience and could be displayed more subtly.  
+> Excellent aesthetics and structure; it is recommended to avoid the blocking modal at the start.  
+> Very good work."*
 
 ---
 
-## 🚀 Autor
-**Rubén Díaz**  
-[GitHub – 0600donrouch](https://github.com/0600donrouch)
+## 🚀 Author
+**Rubén Díaz** [GitHub – 0600donrouch](https://github.com/0600donrouch)
